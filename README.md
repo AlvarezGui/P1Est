@@ -1,2 +1,2 @@
 # Aulas:
-- [Aula 2](../TTI109_Aula_02_Versão_Aluno.ipynb)
+- [Aula 2](TTI109_Aula_02_Versão_Aluno.ipynb)
